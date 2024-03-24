@@ -2,15 +2,15 @@
 
 
 ```haskell
-pronouns                  • he/him
+pronouns                  • He/Him
 address                   • Strabourg, France
 school                    • Unistra
 hobbies                   • Learn, Explore, Dev, Game, Draw.
 
-skills                    • html, css, haskell, dotnet, CSharp, C, Unity, Godot
+skills                    • HTML, CSS, Haskell, Dotnet, CSharp, C, Unity, Godot
 learning                  • sql, php, javascript
 
-commits                   • 710
+commits                   • 711
 issues                    • 22
 reviews                   • 1
 repositories contributed  • 17
