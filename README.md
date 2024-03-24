@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="center">welcome to my page!</h1>
 
-<!--
-**warquys/warquys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```haskell
+pronouns                  • he/him
+address                   • Strabourg, France
+school                    • Unistra
+hobbies                   • Learn, Explore, Dev, Game, Draw.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+skills                    • html, css, haskell, dotnet, CSharp, C, Unity, Godot
+learning                  • sql, php, javascript
+
+commits                   • 710
+issues                    • 22
+reviews                   • 1
+repositories contributed  • 17
+```
+
+<img align="left" src="https://github.com/warquys.png" width="420" />
+
+```cs
+warquys@github
+├── OS
+│   ├── Windows 11
+│   └── Linux
+│       ├── Debian
+│       └── Ubuntu
+├── Shell
+│   ├── Bash
+│   ├── Kitty
+│   └── PowerShell
+├── Package manager
+│   └── UnigetUI
+│       ├── winget
+│       ├── scoop
+│       ├── choco
+│       └── .Net Tools
+└── IDE
+    ├── Vim
+    ├── VS Code
+    └── Visual Studio 2022
+```
+
+<hr width="100%" size="2">
+
+<div align="center">
+  
+ [Based on the readme of Dyzean](https://github.com/Dyzean)
+
+</div>
