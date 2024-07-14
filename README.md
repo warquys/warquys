@@ -7,13 +7,13 @@ address                   • Strabourg, France
 school                    • Unistra
 hobbies                   • Learn, Explore, Dev, Game, Draw.
 
-skills                    • HTML, CSS, Haskell, Dotnet, CSharp, C, Unity, Godot, CUDA, OPEN GL, JavaScript
-learning                  • sql
+skills                    • HTML, CSS, Haskell, Dotnet, CSharp, C, Unity, Godot
+learning                  • sql, php, javascript
 
-commits                   • 817
+commits                   • 826
 issues                    • 22
 reviews                   • 1
-repositories contributed  • 11
+repositories contributed  • 12
 ```
 
 <img align="left" src="https://github.com/warquys.png" width="420" />
