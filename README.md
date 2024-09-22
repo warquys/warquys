@@ -10,13 +10,13 @@ hobbies                   • Learn, Explore, Dev, Game, Draw.
 skills                    • HTML, CSS, Haskell, Dotnet, CSharp, C, Unity, Godot
 learning                  • sql, php, javascript
 
-commits                   • 888
-issues                    • 23
+commits                   • 889
+issues                    • 24
 reviews                   • 1
-repositories contributed  • 17
+repositories contributed  • 18
 ```
 
-<img align="left" src="https://github.com/warquys.png" width="420" />
+<img align="left" src="https://github.com/warquys.png" width="411" />
 
 ```cs
 warquys@github
@@ -45,6 +45,6 @@ warquys@github
 
 <div align="center">
   
- [Based on the readme of Dyzean](https://github.com/Dyzean)
+[Based on the readme of Ashtrath](https://github.com/Ashtrath)
 
 </div>
