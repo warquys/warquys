@@ -16,7 +16,7 @@ reviews                   • {{ CODE_REVIEWS }}
 repositories contributed  • {{ REPOSITORIES_CONTRIBUTED_TO }}
 ```
 
-<img align="left" src="https://github.com/warquys.png" width="420" />
+<img align="left" src="https://github.com/warquys.png" width="411" />
 
 ```cs
 warquys@github
@@ -45,6 +45,6 @@ warquys@github
 
 <div align="center">
   
- [Based on the readme of Dyzean](https://github.com/Dyzean)
+[Based on the readme of Ashtrath](https://github.com/Ashtrath)
 
 </div>
