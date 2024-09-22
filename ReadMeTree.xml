@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Root>
+    <RawText>warquys@github</RawText>
+    <Nodes>
+      <TreeNode>
+        <RawText>OS</RawText>
+        <Nodes>
+          <TreeNode>
+            <RawText>Windows 11</RawText>
+            <Nodes />
+          </TreeNode>
+          <TreeNode>
+            <RawText>Linux</RawText>
+            <Nodes>
+              <TreeNode>
+                <RawText>Debian</RawText>
+                <Nodes />
+              </TreeNode>
+              <TreeNode>
+                <RawText>Ubuntu</RawText>
+                <Nodes />
+              </TreeNode>
+            </Nodes>
+          </TreeNode>
+        </Nodes>
+      </TreeNode>
+      <TreeNode>
+        <RawText>Shell</RawText>
+        <Nodes>
+          <TreeNode>
+            <RawText>Bash</RawText>
+            <Nodes />
+          </TreeNode>
+          <TreeNode>
+            <RawText>Kitty</RawText>
+            <Nodes />
+          </TreeNode>
+          <TreeNode>
+            <RawText>PowerShell</RawText>
+            <Nodes />
+          </TreeNode>
+        </Nodes>
+      </TreeNode>
+      <TreeNode>
+        <RawText>Package manager</RawText>
+        <Nodes>
+          <TreeNode>
+            <RawText>UnigetUI</RawText>
+            <Nodes>
+              <TreeNode>
+                <RawText>winget</RawText>
+                <Nodes />
+              </TreeNode>
+              <TreeNode>
+                <RawText>scoop</RawText>
+                <Nodes />
+              </TreeNode>
+              <TreeNode>
+                <RawText>choco</RawText>
+                <Nodes />
+              </TreeNode>
+              <TreeNode>
+                <RawText>.Net Tools</RawText>
+                <Nodes />
+              </TreeNode>
+            </Nodes>
+          </TreeNode>
+        </Nodes>
+      </TreeNode>
+      <TreeNode>
+        <RawText>IDE</RawText>
+        <Nodes>
+          <TreeNode>
+            <RawText>Vim</RawText>
+            <Nodes />
+          </TreeNode>
+          <TreeNode>
+            <RawText>VS Code</RawText>
+            <Nodes />
+          </TreeNode>
+          <TreeNode>
+            <RawText>Visual Studio 2022</RawText>
+            <Nodes />
+          </TreeNode>
+        </Nodes>
+      </TreeNode>
+    </Nodes>
+  </Root>
+</Tree>

@@ -10,7 +10,7 @@ internal class NewTreeCommand : Command<NewTreeCommand.Setting>
     public override int Execute(CommandContext context, Setting settings)
     {
         settings.RootName ??= AnsiConsole.Ask<string>("What is the root name of the tree ?");
-        settings.FilePath ??= AnsiConsole.Ask<string>("Where do you whant to save the file ?");
+        settings.FilePath ??= AnsiConsole.Ask<string>("Where do you want to save the file ?");
         if (".xml" != Path.GetExtension(settings.FilePath))
         {
             settings.FilePath += ".xml";
@@ -19,7 +19,7 @@ internal class NewTreeCommand : Command<NewTreeCommand.Setting>
         {
             if (!AnsiConsole.Confirm("This file already exists, do you want to overwrite it ?", false))
             {
-                AnsiConsole.WriteLine("If you whant to open it you can do it with the load command.");
+                AnsiConsole.WriteLine("If you want to open it you can do it with the load command.");
                 AnsiConsole.WriteLine($"BuildTree Edit {settings.FilePath}");
                 return 0;
             }
