@@ -23,6 +23,10 @@
               </TreeNode>
             </Nodes>
           </TreeNode>
+          <TreeNode>
+            <RawText>FreeBsd</RawText>
+            <Nodes />
+          </TreeNode>
         </Nodes>
       </TreeNode>
       <TreeNode>
@@ -64,6 +68,10 @@
                 <RawText>.Net Tools</RawText>
                 <Nodes />
               </TreeNode>
+              <TreeNode>
+                <RawText>NodeJs</RawText>
+                <Nodes />
+              </TreeNode>
             </Nodes>
           </TreeNode>
         </Nodes>
@@ -72,8 +80,13 @@
         <RawText>IDE</RawText>
         <Nodes>
           <TreeNode>
-            <RawText>Vim</RawText>
-            <Nodes />
+            <RawText>NeoVim</RawText>
+            <Nodes>
+              <TreeNode>
+                <RawText>LazyVim</RawText>
+                <Nodes />
+              </TreeNode>
+            </Nodes>
           </TreeNode>
           <TreeNode>
             <RawText>VS Code</RawText>
