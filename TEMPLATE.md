@@ -22,9 +22,10 @@ repositories contributed  • {{ REPOSITORIES_CONTRIBUTED_TO }}
 warquys@github
 ├── OS
 │   ├── Windows 11
-│   └── Linux
-│       ├── Debian
-│       └── Ubuntu
+│   ├── Linux
+│   │   ├── Debian
+│   │   └── Ubuntu
+│   └── FreeBsd
 ├── Shell
 │   ├── Bash
 │   ├── Kitty
@@ -34,9 +35,11 @@ warquys@github
 │       ├── winget
 │       ├── scoop
 │       ├── choco
-│       └── .Net Tools
+│       ├── .Net Tools
+│       └── NodeJs
 └── IDE
-    ├── Vim
+    ├── NeoVim
+    │   └── LazyVim
     ├── VS Code
     └── Visual Studio 2022
 ```
