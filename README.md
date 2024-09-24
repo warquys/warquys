@@ -10,7 +10,7 @@ hobbies                   • Learn, Explore, Dev, Game, Draw.
 skills                    • HTML, CSS, Haskell, Dotnet, CSharp, C, Unity, Godot
 learning                  • sql, php, javascript
 
-commits                   • 892
+commits                   • 893
 issues                    • 24
 reviews                   • 1
 repositories contributed  • 18
@@ -22,9 +22,10 @@ repositories contributed  • 18
 warquys@github
 ├── OS
 │   ├── Windows 11
-│   └── Linux
-│       ├── Debian
-│       └── Ubuntu
+│   ├── Linux
+│   │   ├── Debian
+│   │   └── Ubuntu
+│   └── FreeBsd
 ├── Shell
 │   ├── Bash
 │   ├── Kitty
@@ -34,9 +35,11 @@ warquys@github
 │       ├── winget
 │       ├── scoop
 │       ├── choco
-│       └── .Net Tools
+│       ├── .Net Tools
+│       └── NodeJs
 └── IDE
-    ├── Vim
+    ├── NeoVim
+    │   └── LazyVim
     ├── VS Code
     └── Visual Studio 2022
 ```
