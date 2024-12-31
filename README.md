@@ -7,7 +7,7 @@ address                   • Strabourg, France
 school                    • Unistra
 hobbies                   • Learn, Explore, Dev, Game, Draw.
 
-skills                    • HTML, CSS, sql, Haskell, Dotnet, CSharp, C, CLI/Cpp, Unity, Godot
+skills                    • HTML, CSS, Sql, Haskell, Dotnet, CSharp, C, CLI/Cpp, Unity, Godot
 learning                  • php, javascript
 
 commits                   • 1540
