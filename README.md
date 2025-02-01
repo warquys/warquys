@@ -10,10 +10,10 @@ hobbies                   • Learn, Explore, Dev, Game, Draw.
 skills                    • HTML, Sql, CSS, Haskell, Dotnet, CSharp, C, CLI/Cpp, Unity, Godot
 learning                  • php, javascript
 
-commits                   • 1568
+commits                   • 1574
 issues                    • 24
 reviews                   • 1
-repositories contributed  • 18
+repositories contributed  • 17
 ```
 
 <img align="left" src="https://github.com/warquys.png" width="411" />
