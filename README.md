@@ -10,7 +10,7 @@ hobbies                   • Learn, Explore, Dev, Game, Draw.
 skills                    • HTML, Sql, CSS, Haskell, Dotnet, CSharp, C, CLI/Cpp, Unity, Godot, (.net)Regex
 learning                  • php, javascript
 
-commits                   • 1622
+commits                   • 1624
 issues                    • 27
 reviews                   • 1
 repositories contributed  • 17
