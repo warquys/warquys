@@ -11,7 +11,7 @@ skills                    • HTML, Sql, CSS, Haskell, Dotnet, CSharp, C, CLI/Cp
 learning                  • php, javascript
 
 commits                   • 1624
-issues                    • 27
+issues                    • 26
 reviews                   • 1
 repositories contributed  • 17
 ```
