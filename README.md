@@ -11,9 +11,9 @@ skills                    • HTML, Sql, CSS, Haskell, Dotnet, CSharp, C, CLI/Cp
 learning                  • php, javascript
 
 commits                   • 1624
-issues                    • 26
+issues                    • 27
 reviews                   • 1
-repositories contributed  • 17
+repositories contributed  • 16
 ```
 
 <img align="left" src="https://github.com/warquys.png" width="411" />
